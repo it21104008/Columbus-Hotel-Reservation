@@ -1,0 +1,157 @@
+<resources>
+
+    <string name="app_name">COLUMBUS APP</string>
+    <string name="welcome_image">welcomeimage</string>
+    <string name="background_image">backimage</string>
+    <string name="logo">logo</string>
+    <string name="loginmsg">Enter Your Account</string>
+    <string name="blank" />
+    <string name="inputusername">Enter Your Email</string>
+    <string name="inputpassword">Enter Your Password</string>
+    <string name="login">Login</string>
+    <string name="register">Create New Account?</string>
+    <string name="menuButton">Menu</string>
+    <string name="profileButton">My Profile</string>
+    <string name="editprofileButton">Profile Settings</string>
+    <string name="logoutButton">Logout</string>
+    <string name="name">Full Name</string>
+    <string name="registerValue">Register</string>
+    <string name="regFname">Full Name</string>
+    <string name="idNumber">ID Number</string>
+    <string name="email">Email Adress</string>
+    <string name="phone">Telephone</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Re-Enter Password</string>
+    <string name="birthday">Birthday</string>
+    <string name="createAccount">Create Account</string>
+    <string name="regLogin">Login to Existing Account</string>
+    <string name="findTemple">Hotel Brand-Chains</string>
+    <string name="myTemples">Cabanas</string>
+    <string name="findEvent">Booking</string>
+    <string name="myEvents">Events</string>
+    <string name="changeProfDetails">Update Profile Details</string>
+    <string name="save">Save</string>
+    <string name="editConfirmPassword">Confirm Password</string>
+    <string name="myProfile">My Profile</string>
+    <string name="editButton">Update</string>
+    <string name="deleteButton">Delete</string>
+    <string name="profileSettings">Account Setting</string>
+    <string name="logout">Logout</string>
+    <string name="myprofile">My Account</string>
+
+    <string name="addtopic1">පිංකමට සහසම්බන්ධ වීම</string>
+    <string name="atext2">විස්තරය</string>
+    <string name="addtext2">විස්තරය</string>
+    <string name="addevent1">පිංකමට එකතු වීමට කැමතියි</string>
+    <string name="addEvent2">ආපසු</string>
+    <string name="eltextdes1">පිංකම මතක් කරන්නට</string>
+    <string name="addevent2">විස්තරය</string>
+    <string name="remainderevent">පිංකම මතක් කිරීම තහවුරු කරන්න</string>
+    <string name="conevent1">පිංකම මතක් කල යුතු වාර ගණන</string>
+    <string name="eventspecial1">පිංකම මතක් කල යුතු වාර ගණන</string>
+    <string name="dateofevent">පිංකම් දිනය</string>
+    <string name="eventspecial2">සැලකිය යුතු කරුණු</string>
+    <string name="datespecial">2020-06-9</string>
+    <string name="confirmbtn1">තහවුරු කරන්න</string>
+    <string name="back1">ආපසු</string>
+    <string name="clear1">මකා දමන්න</string>
+
+    <string name="reg_username">පරිශීලක නාමය</string>
+    <string name="reg_email">විද්යුත් තැපෑල</string>
+    <string name="reg_password">මුරපදය</string>
+    <string name="reg_confirm_pw">මුරපදය තහවුරු කරන්න</string>
+    <string name="reg_btn">ලියාපදිංචි වන්න</string>
+    <string name="reg_msg">ඔබගේ නව ගිණුමට ලියාපදිංචි වන්න</string>
+    <string name="prof_mgtMsg">පරිශීලක පැතිකඩ කළමනාකරණය</string>
+    <string name="prof_name">සම්පූර්ණ නම</string>
+    <string name="prof_joinDate">Joined Jan 17th 2018</string>
+    <string name="prof_telephone">දුරකථන</string>
+    <string name="prof_phoneNo" />
+    <string name="prof_editBtn">සංස්කරණය කරන්න</string>
+    <string name="prof_email">විද්යුත් තැපෑල</string>
+    <string name="prof_EmailAddr" />
+    <string name="profEmail_btn">සංස්කරණය කරන්න</string>
+    <string name="prof_passwordTxt">මුරපදය</string>
+    <string name="prof_pwField">මුරපදය</string>
+    <string name="prof_pwBtn">සංස්කරණය කරන්න</string>
+    <string name="prof_saveBtn">සුරකින්න</string>
+    <string name="Reg_memberMsg">දැනටමත් සාමාජිකයෙක්ද?</string>
+    <string name="btnLogin">පුරනයවන්න</string>
+    <string name="pwHint">Password</string>
+
+    <string name="tdetails1">පන්සලේ නම</string>
+    <string name="tdetailsheader1">පන්සලේ විස්තරයන් ඇතුළු කරන්න</string>
+    <string name="tdetails2">පන්සලේ ඉතිහාසය</string>
+    <string name="tdetails3">නායක ස්වාමින් වහන්සේගේ නම</string>
+    <string name="tdetails4">නායක ස්වාමින් වහන්සේගේ තනතුර</string>
+    <string name="tdetailsbutton1">තහවුරු කරන්න</string>
+    <string name="tdetailsbtn1">එක් කරන්න</string>
+    <string name="tdetails7">PictureTemple452325.jpg</string>
+    <string name="tempcontrides1">පිංකම එක් කරන්න</string>
+    <string name="tcontribution1">පිංකමේ අංකය</string>
+    <string name="tcontri2" />
+    <string name="tcontribution2">පිංකමේ නම</string>
+    <string name="tCountri3">පිංකම් විස්තරය</string>
+    <string name="tcountri4">දින හා කාලවකවානු</string>
+    <string name="tcontri7">දින දර්ශනය වෙත</string>
+    <string name="tcontri10">ප්‍රදර්ශනය කරන්න</string>
+    <string name="tcontri11">මකා දමන්න</string>
+    <string name="txtname">පන්සලේ නම</string>
+    <string name="txthistory">පන්සලේ ඉතිහාසය</string>
+    <string name="txtstart">ආරම්භය</string>
+    <string name="txtbegin">ආරම්භය:(dd/mm/yyyy)</string>
+    <string name="txtmonk">නායක ස්වාමින් වහන්සේගේ නම</string>
+    <string name="txtlocation">පන්සලේ පිහිටීම</string>
+    <string name="txtmonkcon">පන්සලේ දුරකථන අංකය</string>
+
+
+    <string name="MsgDahampasal">දහම්පාසලෙහි විස්තර ඇතුලත් කරන්න</string>
+    <string name="btnDahampasal">ඇතුල්වන්න</string>
+    <string name="msgDahampasalaForm">දහම්පාසල පිලිබඳ විස්තර</string>
+    <string name="inputTemple">පන්සලෙහි නම</string>
+    <string name="inputTheroName">නායක ස්වාමින් වහන්සේගේ නම</string>
+    <string name="inputDahampasala">දහම්පාසලේ නම</string>
+    <string name="inputStudentCount">ඉගෙනුම ලබන සිසුන් ගණන</string>
+    <string name="inputClassesCount">පන්ති ගණන</string>
+    <string name="add_button">ඇතුලත් කරන්න</string>
+    <string name="view_button">බලන්න</string>
+    <string name="update_button">යාවත්කාලීන කරන්න</string>
+    <string name="delete_button">මකා දමන්න</string>
+    <string name="inputId">හඳුනාගැනීමේ අංකය</string>
+
+    //validation in temple management profile
+
+    <string name="nameerror">පන්සලේ නම ඇතුලත් කරන්න</string>
+    <string name="historyerror">විස්තරය ඇතුලත් කරන්න</string>
+    <string name="monkerror">ස්වාමින් වහන්සේගේ නම ඇතුලත් කරන්න</string>
+    <string name="locationerror">පිහිටීම ඇතුලත් කරන්න</string>
+    <string name="mobileerror">දු.අංකය ඇතුලත් කරන්න</string>
+    <string name="dateerror">දිනය ඇතුලත් කරන්න</string>
+    <string name="iconLogo" />
+    <string name="dhschoolBtn">දහම් පාසල වෙත</string>
+    <string name="adminaddbtn">ඇඩ්මින්වරු සදහා</string>
+
+    //Temple event management
+
+    <string name="txtdes">පිංකම් විස්තරය</string>
+    <string name="txtgiving">පිංකම</string>
+    <string name="txtDate">පිංකම් දිනය</string>
+    <string name="txtTime">පිංකම් වේලාව</string>
+    <string name="txtgivingDes">පිංකම් විස්තරය</string>
+
+    //validations in temple event Management
+    <string name="nameerrorEvent">පිංකමේ නම ඇතුලත් කරන්න</string>
+    <string name="namedes">විස්තරය ඇතුලත් කරන්න</string>
+    <string name="dateerrorEvent">දිනය ඇතුලත් කරන්න</string>
+    <string name="timeerror">කාල හෝරාව ඇතුලත් කරන්න</string>
+    <string name="txtDateF">පිංකම් දිනය : (dd /mm /yyyy)</string>
+    <string name="txtTimeF">පිංකම් වේලාව : (24 format - hh:mm)</string>
+    <string name="addEventMbtn">අවස්ථා කළමනාකරණයට</string>
+    <string name="templeSettings">Package Details</string>
+    <string name="eventSettings">Promotion Details</string>
+    <string name="dhammaSchoolSettings">Outdoor Services</string>
+    <string name="userSettings">Events</string>
+    <string name="addbutton">Submit</string>
+    <string name="removeTemple">මගේ විහාරස්ථාන වලින් ඉවත් කරන්න</string>
+
+</resources>
