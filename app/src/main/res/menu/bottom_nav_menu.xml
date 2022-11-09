@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/home"
+        />
+    <item android:title="Admin"
+        android:icon="@drawable/ic_baseline_admin_panel_settings_24"
+        android:id="@+id/admin"
+        />
+    <item android:title="Back"
+       android:icon="@drawable/ic_baseline_arrow_back_ios_24"
+        android:id="@+id/backpg"
+        />
+</menu>

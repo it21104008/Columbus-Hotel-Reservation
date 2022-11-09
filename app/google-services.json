@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "556869737674",
+    "project_id": "colombus-aca41",
+    "storage_bucket": "colombus-aca41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556869737674:android:b82a63aeb1e42303e16833",
+        "android_client_info": {
+          "package_name": "com.example.paymentlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556869737674-i1o2gkjrkd8rmvc1h2vqu8nm8n4o7prb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paymentlogin",
+            "certificate_hash": "1f4f115aa2cb6cce8c6546d585e84572e66dc9ee"
+          }
+        },
+        {
+          "client_id": "556869737674-sdr8083nudck27acjjlr1g67701dlfag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj1psDVlS58zTSNXh-UY40oHKhmk7bV-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556869737674-sdr8083nudck27acjjlr1g67701dlfag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
